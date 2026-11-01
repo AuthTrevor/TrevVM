@@ -12,10 +12,10 @@ COPY root/ /
 COPY root/etc/apt/preferences.d/firefox-no-snap /etc/apt/preferences.d/firefox-no-snap
 COPY root/install-de.sh /install-de.sh
 
-RUN --mount=type=bind,source=.,target=/tmp/trevvm-context,readonly \
+RUN --mount=type=bind,source=.,target=/trevvm-context,readonly \
             set -eux; \
-            if [ -f /tmp/trevvm-context/options.json ]; then \
-                  cp /tmp/trevvm-context/options.json /options.json; \
+            if [ -f /trevvm-context/options.json ]; then \
+                  cp /trevvm-context/options.json /options.json; \
             else \
                   printf '%s\n' '{"defaultapps":[],"programming":[],"apps":[],"enablekvm":true,"DE":"KDE Plasma (Heavy)"}' > /options.json; \
             fi; \
@@ -39,6 +39,6 @@ RUN --mount=type=bind,source=.,target=/tmp/trevvm-context,readonly \
       /var/lib/apt/lists/* \
       /var/tmp/* \
       /tmp/*
-# Change these before installing TrevVM. (optional)
+
 EXPOSE 3000
 VOLUME /config
