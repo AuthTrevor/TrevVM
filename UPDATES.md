@@ -1,17 +1,17 @@
-# How To Update In Codespaces
+# How To Update In Codespaces 🥶
 
 You can update by running the following in your terminal.
 ```
 git pull
 ```
-## Already Installed
+## Already Installed 🥵
 If you already installed TrevVM and don't know how to start it, you can run this. (ignore the plus)
 ```diff
 + docker start TrevVM
 ```
 This will run TrevVM without any interruptions, as long as you ran the correct commands to install it. (as shown in README.md)
 
-## Recommendations
+## Recommendations 🤫
 - Enable browser acceleration when needed.
 - Pick Cinnamon, fastest Linux desktop near windows.
 - Pick all the apps you are gonna use, don't select all because of lag.
