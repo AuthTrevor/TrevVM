@@ -1,0 +1,67 @@
+name: Got Blocked?
+description: 'Tired of getting virtual slapped? Well tell us!'
+body:
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+        If you are unable to determine what issue this is, open a discussion first. Never make an issues until you are sure what.
+        If you are a maintainer, please be aware of making a blank issue (in case) is an option.
+        If the issue is still present after 2 days after being reviewed, someone will have to reach out to you explaining what happened and when it will          be resolved.
+      options:
+        - label: This is **NOT** a KasnVNC report. We are not a maintaining team regarding KasmVNC.
+          required: true
+        - label: This is not a support issue or a question. For support, questions, or help, visit our discussions
+          required: true
+        - label: You opened a discussions before this issue.
+          required: true
+        - label: This issue isn't from a third-party fork.
+          required: true
+
+  - type: checkboxes
+    attributes:
+      label: I witnessed this issue but...
+      options:
+        - label: I never modified any files in TrevVM.
+          required: true
+        - label: I didnt take this into my hands and went to this immediately.
+          required: true
+
+  - type: textarea
+    attributes:
+      label: Description
+      description: What is your blocker, do you know? (how do you know based on what you have saw.)
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: A specific place where the issue occurs.
+      description: "Clicking fields, apps, desktop enviromnts,"
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Previous behavior
+      description: What happened before this? What did you do?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Current behavior
+      description: Did you get blocked immediatly, or was it detection via clicks?
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Troubleshooting information
+      placeholder: |
+        Type your apps, and desktop enviroment.
+      render: text
+    validations:
+      required: true

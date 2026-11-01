@@ -1,3 +1,4 @@
+# syntax=docker/dockerfile:1
 FROM ghcr.io/linuxserver/baseimage-kasmvnc:ubuntujammy
 
 ARG BUILD_DATE
@@ -11,7 +12,13 @@ COPY root/ /
 COPY root/etc/apt/preferences.d/firefox-no-snap /etc/apt/preferences.d/firefox-no-snap
 COPY root/install-de.sh /install-de.sh
 
-RUN set -eux; \
+RUN --mount=type=bind,source=.,target=/trevvm-context,readonly \
+            set -eux; \
+            if [ -f /trevvm-context/options.json ]; then \
+                  cp /trevvm-context/options.json /options.json; \
+            else \
+                  printf '%s\n' '{"defaultapps":[],"programming":[],"apps":[],"enablekvm":true,"DE":"KDE Plasma (Heavy)"}' > /options.json; \
+            fi; \
     rm -f /etc/apt/sources.list.d/nodesource.list; \
     apt-get update; \
     apt-get install --no-install-recommends -y software-properties-common; \
