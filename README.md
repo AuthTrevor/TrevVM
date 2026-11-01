@@ -26,7 +26,7 @@ When you successfully run the vm, you can install windows files. You can run .ex
 - Enjoy a panic button at your disposal (press equal key to redirect)
 - No ads or trackers.
 - Real games, the ability to install anything. (ex. any exe that can be ran on windows)
-- Hard to block python-feature off 3rd party. (Python and shell scripts rather than html or js that can be detected by school-work blockers.)
+- A verified reputation of not being blocked by School or Work website blockers.
 
 ## Wiki 🗳️
 
