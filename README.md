@@ -37,7 +37,10 @@ chmod +x install.sh
 
 ## Alternative Installation
 
-#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above. (Do this to have best performance and lower disk space.)
+#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above. 
+
+
+#### (Do this to have best performance and lower disk space. Ideal for gaming or high performance work.)
 ## Q&A 📢
 When you successfully run the vm, you can install windows files. You can run .exe (ex. install fortnite, obs to stream, etc). You can ask any more Questions in discussions tab.
 
