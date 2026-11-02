@@ -37,7 +37,7 @@ chmod +x install.sh
 
 ## Alternative Installation
 
-#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above.
+#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above. (Do this to have best performance and lower disk space.)
 ## Q&A 📢
 When you successfully run the vm, you can install windows files. You can run .exe (ex. install fortnite, obs to stream, etc). You can ask any more Questions in discussions tab.
 
@@ -52,7 +52,7 @@ When you successfully run the vm, you can install windows files. You can run .ex
 
 #### I'm sure some of y'all can get confused from all the stuff that works here, we will try to explain and have easy access on our page wiki to make things easier. It can make things get clearer for any questions.
 
-> ### NOTE: These files are subject to changes, so if you still have any questions, go to discussions or issues.
+> ### NOTE: These files are subject to changes, so if you still have any questions, go to discussions.
 -----
 <i>Quick links that are "useful"</i>
 - <a href="https://github.com/TrevorTesch/TrevVM/wiki/Main-Page%F0%9F%96%A7">Wiki</a>
