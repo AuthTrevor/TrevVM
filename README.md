@@ -12,12 +12,32 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 
 
 ## Installation 🔑
-Make a codespaces by pressing the green code button. Then click Create codespaces on main. When you load the codespace in, type this cmd that is below in the terminal:
+
+### Make a codespaces by pressing the green code button. 
+-----
+<img width="212" height="44" alt="image" src="https://github.com/user-attachments/assets/203e9997-0719-4c63-855f-57f05b68ca3b" />
+
+
+### Then click Create codespaces on main. 
+-----
+<img width="398" height="261" alt="image-create" src="https://github.com/user-attachments/assets/98e13e24-a5d8-4349-a98b-1eba2a5089cc" />
+
+### Go to your teminal and then type in the commaand below:
+-----
+
+### Terminal CMD:
+
+
 ```
 curl -O https://raw.githubusercontent.com/TrevorTesch/TrevVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
+
+
+## Alternative Installation
+
+#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above.
 ## Q&A 📢
 When you successfully run the vm, you can install windows files. You can run .exe (ex. install fortnite, obs to stream, etc). You can ask any more Questions in discussions tab.
 
@@ -26,7 +46,7 @@ When you successfully run the vm, you can install windows files. You can run .ex
 - Enjoy a panic button at your disposal (press equal key to redirect)
 - No ads or trackers.
 - Real games, the ability to install anything. (ex. any exe that can be ran on windows)
-- Hard to block python-feature off 3rd party. (Python and shell scripts rather than html or js that can be detected by school-work blockers.)
+- A verified reputation of not being blocked by School or Work website blockers.
 
 ## Wiki 🗳️
 
