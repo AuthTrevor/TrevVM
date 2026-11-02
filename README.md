@@ -22,7 +22,7 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 -----
 <img width="398" height="261" alt="image-create" src="https://github.com/user-attachments/assets/98e13e24-a5d8-4349-a98b-1eba2a5089cc" />
 
-### Go to your teminal and then type in the commaand below:
+### Go to your terminal and then type in the command below:
 -----
 
 ### Terminal CMD:
@@ -48,7 +48,7 @@ When you successfully run the vm, you can install windows files. You can run .ex
 
 - Enjoy a panic button at your disposal (press equal key to redirect)
 - No ads or trackers.
-- Real games, the ability to install anything. (ex. any exe that can be ran on windows)
+- Real games, the ability to install anything. (ex. any exe that can be ran on windows - select the wine app on the installer)
 - A verified reputation of not being blocked by School or Work website blockers.
 
 ## Wiki 🗳️
