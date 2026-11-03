@@ -25,7 +25,7 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 ### Go to your terminal and then type in the command below:
 -----
 
-### Terminal CMD:
+### Terminal CMD: ✨
 
 
 ```
@@ -35,7 +35,7 @@ chmod +x install.sh
 ```
 
 
-## Alternative Installation
+## Alternative Installation ⚙️
 
 #### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above. 
 
