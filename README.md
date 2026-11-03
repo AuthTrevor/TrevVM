@@ -42,8 +42,15 @@ chmod +x install.sh
 
 #### (Do this to have best performance and lower disk space. Ideal for gaming or high performance work.)
 ## Q&A 📢
-When you successfully run the vm, you can install windows files. You can run .exe (ex. install fortnite, obs to stream, etc). You can ask any more Questions in discussions tab.
+> - What are some limitations?
 
+The process for installing can be very long - (as long as 30 minutes max) and the desktop can overload the CPU if you're on the free tier.
+
+> - Why is this better than a proxy browser?
+
+Well, why would you want to get interrupted by school blockers? We insure that our reputation is clean, and safe. We never have been detected.
+
+#### In summary, we have all these questions a lot. But we make sure this is super perfect. TrevVM is dominant over your school blockers. Trust us.
 ## Cool Add-ons 📜
 
 - Enjoy a panic button at your disposal (press equal key to redirect)
