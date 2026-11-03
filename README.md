@@ -22,10 +22,10 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 -----
 <img width="398" height="261" alt="image-create" src="https://github.com/user-attachments/assets/98e13e24-a5d8-4349-a98b-1eba2a5089cc" />
 
-### Go to your teminal and then type in the commaand below:
+### Go to your terminal and then type in the command below:
 -----
 
-### Terminal CMD:
+### Terminal CMD: ✨
 
 
 ```
@@ -35,24 +35,34 @@ chmod +x install.sh
 ```
 
 
-## Alternative Installation
+## Alternative Installation ⚙️
 
-#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above.
+#### Click <a href="https://github.com/codespaces/">this</a> and click the blank template, then run the cmd above. 
+
+
+#### (Do this to have best performance and lower disk space. Ideal for gaming or high performance work.)
 ## Q&A 📢
-When you successfully run the vm, you can install windows files. You can run .exe (ex. install fortnite, obs to stream, etc). You can ask any more Questions in discussions tab.
+> - What are some limitations?
 
+The process for installing can be very long - (as long as 30 minutes max) and the desktop can overload the CPU if you're on the free tier.
+
+> - Why is this better than a proxy browser?
+
+Well, why would you want to get interrupted by school blockers? We insure that our reputation is clean, and safe. We never have been detected.
+
+#### In summary, we have all these questions a lot. But we make sure this is super perfect. TrevVM is dominant over your school blockers. Trust us.
 ## Cool Add-ons 📜
 
 - Enjoy a panic button at your disposal (press equal key to redirect)
 - No ads or trackers.
-- Real games, the ability to install anything. (ex. any exe that can be ran on windows)
+- Real games, the ability to install anything. (ex. any exe that can be ran on windows - select the wine app on the installer)
 - A verified reputation of not being blocked by School or Work website blockers.
 
 ## Wiki 🗳️
 
 #### I'm sure some of y'all can get confused from all the stuff that works here, we will try to explain and have easy access on our page wiki to make things easier. It can make things get clearer for any questions.
 
-> ### NOTE: These files are subject to changes, so if you still have any questions, go to discussions or issues.
+> ### NOTE: These files are subject to changes, so if you still have any questions, go to discussions.
 -----
 <i>Quick links that are "useful"</i>
 - <a href="https://github.com/TrevorTesch/TrevVM/wiki/Main-Page%F0%9F%96%A7">Wiki</a>

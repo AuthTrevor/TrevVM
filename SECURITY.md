@@ -112,4 +112,6 @@ We are committed to responding respectfully, protecting good-faith reporters, an
 
 ---
 
-**Last updated:** 2026-10-22
+**Last updated:** 2026-11-2
+
+###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
