@@ -6,9 +6,12 @@ body:
       label: Prerequisites
       description: |
         To rule out invalid issues, confirm and check each one of the checkboxes.
+        
         If you are unable to determine what issue this is, open a discussion first. Never make an issues until you are sure what.
+        
         If you are a maintainer, please be aware of making a blank issue (in case) is an option.
-        If the issue is still present after 2 days after being reviewed, someone will have to reach out to you explaining what happened and when it will          be resolved.
+        
+        If the issue is still present after 2 days after being reviewed, someone will have to reach out to you explaining what happened and when it will be resolved.
       options:
         - label: This is **NOT** a KasnVNC report. We are not a maintaining team regarding KasmVNC.
           required: true
@@ -65,3 +68,28 @@ body:
       render: text
     validations:
       required: true
+
+  - type: textarea
+    attributes:
+      label: Additional information
+      placeholder: |
+        Anything else? Even a lil bit can help a lot.
+      render: text
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        To attach screenshots, create the issue first and add the images in a comment.
+
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browser(s) are you seeing the problem on?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
