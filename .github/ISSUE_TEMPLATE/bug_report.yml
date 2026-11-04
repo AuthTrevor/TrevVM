@@ -71,20 +71,17 @@ body:
 
   - type: textarea
     attributes:
-      label: Troubleshooting information
+      label: Additional information
       placeholder: |
         Anything else? Even a lil bit can help a lot.
       render: text
     validations:
       required: false
 
-  - type: upload
-    id: screenshots
+  - type: markdown
     attributes:
-      label: Upload screenshots
-      description: If applicable, add screenshots to help explain your problem.
-    validations:
-      required: false
+      value: |
+        To attach screenshots, create the issue first and add the images in a comment.
 
   - type: dropdown
     id: browsers
