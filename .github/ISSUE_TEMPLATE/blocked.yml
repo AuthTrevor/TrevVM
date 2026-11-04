@@ -1,5 +1,5 @@
 name: Got Blocked?
-description: 'Tired of getting virtual slapped? Well tell us!'
+description: 'Tired of getting virtually slapped in the face? Well tell us!'
 body:
   - type: checkboxes
     attributes:
@@ -68,3 +68,21 @@ body:
       render: text
     validations:
       required: true
+
+   - type: textarea
+    attributes:
+      label: Troubleshooting information
+      placeholder: |
+        Anything else? Even a lil bit can help a lot.
+      render: text
+    validations:
+      required: false
+
+  - type: upload
+    id: screenshots
+    attributes:
+      label: Upload screenshots
+      description: If applicable, add screenshots to help explain your problem.
+    validations:
+      required: false
+
