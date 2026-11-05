@@ -13,6 +13,7 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 
 ## Installation 🔑
 
+> NOTE: You must have a GitHub account to install this properly and work this.
 ### Make a codespaces by pressing the green code button. 
 -----
 <img width="212" height="44" alt="image" src="https://github.com/user-attachments/assets/203e9997-0719-4c63-855f-57f05b68ca3b" />
@@ -23,6 +24,8 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 <img width="398" height="261" alt="image-create" src="https://github.com/user-attachments/assets/98e13e24-a5d8-4349-a98b-1eba2a5089cc" />
 
 ### Go to your terminal and then type in the command below:
+
+> NOTE: When installing on the codespaces terminal, <b>DO NOT</b> mess with any files or exit the codespaces, or else this will not work.
 -----
 
 ### Terminal CMD: ✨
