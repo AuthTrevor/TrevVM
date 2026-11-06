@@ -2,7 +2,8 @@
 
 
 # $\color{#0B1F4B}{\textsf{Trev}}\color{#66C7F2}{\textsf{VM}}$ 🖥 (run this in a deployed environment)
-#### PANIC KEY IS EQUAL 
+
+> #### Announcement: We had a temporary reset and disruption to our services, we will try to not have this not get disrupted again. We apologize deeply and any trouble this has caused. This will not happen again.
 
 Here at TrevVM we try to make everything simple and easy. This Easy-to-use Linux desktop is great to use for <b>heavily-restricted</b> access to certain things that appear blocked or unavailable. We use pull requests to make sure our code is safe, then commit the changes on branches, and it's very up-to-date. 
 
