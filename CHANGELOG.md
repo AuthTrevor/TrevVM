@@ -23,4 +23,4 @@ You can fork the repo and make pull requests. Before reporting an issue, make a 
 
 Always report any security vulnerability privately to the maintainers, we hate to have any attacks happen to our clients.
 
-###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/">TrevVM</a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
+###### (C) 2026-present <a href="https://github.com/AuthTrevor/TrevVM/">TrevVM</a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
