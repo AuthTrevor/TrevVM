@@ -1,6 +1,6 @@
 # Contributing😄
 
-Contributions are welcome when they improve reliability, documentation, or accessibility.
+Contributions are welcome when they improve reliability, documentation, accessibility, and etc.
 ## Before contributing🤔
 
 1. Read the repository README, `SECURITY.md`, and `LICENSE`.
@@ -24,4 +24,4 @@ A useful pull request includes:
 
 Contributions are expected to follow the repository's Apache License 2.0 terms unless a separate written agreement applies.
 
-###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
+###### (C) 2026-present <a href="https://github.com/AuthTrevor/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
