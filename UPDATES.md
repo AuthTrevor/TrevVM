@@ -18,4 +18,4 @@ This will run TrevVM without any interruptions, as long as you ran the correct c
 - Check our wiki for any questions you may have.
 - Pick your codespaces server location, your codespaces server has a unique IP, used for a no-logs, private chosen proxy location.
 
-###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
+###### (C) 2026-present <a href="https://github.com/AuthTrevor/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.

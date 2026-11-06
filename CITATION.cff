@@ -1,15 +1,15 @@
-cff-version: 1.2.1
+cff-version: 1.2.2
 message: "If you use TrevVM, please cite it using the metadata in this file."
 title: "TrevVM"
 abstract: "A KasmVNC-based Linux virtual machine environment designed to run through GitHub Codespaces."
 type: software
 
 authors:
-  - family-names: "Tesch"
-    given-names: "Trevor"
+  - family-names: "Trevor"
+    given-names: "Auth"
 
-repository-code: "https://github.com/TrevorTesch/TrevVM"
-url: "https://github.com/TrevorTesch/TrevVM"
+repository-code: "https://github.com/AuthTrevor/TrevVM"
+url: "https://github.com/AuthTrevor/TrevVM"
 license: "Apache-2.0"
 
 keywords:

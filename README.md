@@ -3,7 +3,7 @@
 
 # $\color{#0B1F4B}{\textsf{Trev}}\color{#66C7F2}{\textsf{VM}}$ 🖥 (run this in a deployed environment)
 
-> #### Announcement: We had a temporary reset and disruption to our services, we will try to not have this not get disrupted again. We apologize deeply and any trouble this has caused. This will not happen again.
+> ### Announcement: We had a temporary reset and disruption to our services, we will try to not have this not get disrupted again. We apologize deeply and any trouble this has caused. This will not happen again.
 
 Here at TrevVM we try to make everything simple and easy. This Easy-to-use Linux desktop is great to use for <b>heavily-restricted</b> access to certain things that appear blocked or unavailable. We use pull requests to make sure our code is safe, then commit the changes on branches, and it's very up-to-date. 
 
@@ -33,7 +33,7 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 
 
 ```
-curl -O https://raw.githubusercontent.com/TrevorTesch/TrevVM/main/install.sh
+curl -O https://raw.githubusercontent.com/AuthTrevor/TrevVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
@@ -69,10 +69,10 @@ Well, why would you want to get interrupted by school blockers? We insure that o
 > ### NOTE: These files are subject to changes, so if you still have any questions, go to discussions.
 -----
 <i>Quick links that are "useful"</i>
-- <a href="https://github.com/TrevorTesch/TrevVM/wiki/Main-Page%F0%9F%96%A7">Wiki</a>
-- <a href="https://github.com/TrevorTesch/TrevVM/fork">Fork - You need it to have a save state if you wanna make your own changes.</a>
-- <a href="https://github.com/TrevorTesch/TrevVM/discussions">Discussions</a>
-###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/">TrevVM</a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
+- <a href="https://github.com/AuthTrevor/TrevVM/wiki">Wiki</a>
+- <a href="https://github.com/AuthTrevor/TrevVM/fork">Fork - You need it to have a save state if you wanna make your own changes.</a>
+- <a href="https://github.com/AuthTrevor/TrevVM/discussions">Discussions</a>
+###### (C) 2026-present <a href="https://github.com/AuthTrevor/TrevVM/">TrevVM</a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
 
 
 
