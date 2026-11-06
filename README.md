@@ -69,10 +69,10 @@ Well, why would you want to get interrupted by school blockers? We insure that o
 > ### NOTE: These files are subject to changes, so if you still have any questions, go to discussions.
 -----
 <i>Quick links that are "useful"</i>
-- <a href="https://github.com/TrevorTesch/TrevVM/wiki/Main-Page%F0%9F%96%A7">Wiki</a>
-- <a href="https://github.com/TrevorTesch/TrevVM/fork">Fork - You need it to have a save state if you wanna make your own changes.</a>
-- <a href="https://github.com/TrevorTesch/TrevVM/discussions">Discussions</a>
-###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/">TrevVM</a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
+- <a href="https://github.com/AuthTrevor/TrevVM/wiki">Wiki</a>
+- <a href="https://github.com/AuthTrevor/TrevVM/fork">Fork - You need it to have a save state if you wanna make your own changes.</a>
+- <a href="https://github.com/AuthTrevor/TrevVM/discussions">Discussions</a>
+###### (C) 2026-present <a href="https://github.com/AuthTrevor/TrevVM/">TrevVM</a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
 
 
 
