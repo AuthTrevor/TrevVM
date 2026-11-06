@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-git clone https://github.com/TrevorTesch/TrevVM
+git clone https://github.com/AuthTrevor/TrevVM
 cd TrevVM
 python3 -m pip install --upgrade pip
 python3 -m pip install --upgrade -r requirements.txt
