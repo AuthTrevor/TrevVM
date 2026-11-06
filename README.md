@@ -33,7 +33,7 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 
 
 ```
-curl -O https://raw.githubusercontent.com/TrevorTesch/TrevVM/main/install.sh
+curl -O https://raw.githubusercontent.com/AuthTrevor/TrevVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
