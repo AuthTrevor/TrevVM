@@ -1,19 +1,19 @@
 # CHANGELOG - v4.0.4
 ## What's Changed
-* Update CHANGELOG.md by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/61
-* Create FUNDING.yml by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/62
-* Update FUNDING.yml by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/63
-* Trevor tesch patch 1 by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/64
-* sry... by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/65
-* Update requirements.txt by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/66
-* Update install.sh by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/67
-* Trevor tesch patch 1 by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/68
-* Trevor tesch patch 1 by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/69
-* Trevor tesch patch 1 by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/70
-* Trevor tesch patch 1 by @TrevorTesch in https://github.com/TrevorTesch/TrevVM/pull/71
+* Update CHANGELOG.md by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/61
+* Create FUNDING.yml by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/62
+* Update FUNDING.yml by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/63
+* Trevor tesch patch 1 by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/64
+* sry... by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/65
+* Update requirements.txt by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/66
+* Update install.sh by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/67
+* Trevor tesch patch 1 by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/68
+* Trevor tesch patch 1 by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/69
+* Trevor tesch patch 1 by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/70
+* Trevor tesch patch 1 by @AuthTrevor in https://github.com/TrevorTesch/TrevVM/pull/71
 
 
-**Full Changelog**: https://github.com/TrevorTesch/TrevVM/compare/v4.0.0...FR-V4.0.4
+**Full Changelog**: https://github.com/AuthTrevor/TrevVM/compare/v4.0.0...FR-V4.0.4
 
 ## Help Us!
 
