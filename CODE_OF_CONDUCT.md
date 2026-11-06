@@ -56,4 +56,4 @@ Retaliation against anyone who reports a concern in good faith is not acceptable
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) version 2.1, with additional project-specific guidance about authorized and lawful use.
 
-###### (C) 2026-present <a href="https://github.com/TrevorTesch/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
+###### (C) 2026-present <a href="https://github.com/AuthTrevor/TrevVM/"><b>TrevVM</b></a> and its contributors. Always follow the rules and policies of the repo before making/create anything to/from the repo.
