@@ -6,7 +6,7 @@
 - [ ] I tested this change.
 - [ ] I have listed the environment and steps tested.
 
-## Documentation
+## Documentation (optional)
 - [ ] I updated relevant README or Wiki pages.
 
 ## Security impact

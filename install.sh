@@ -8,6 +8,7 @@ python3 -m pip install --upgrade -r requirements.txt
 sleep 2
 python3 installer.py
 docker build -t trevvm . --no-cache
+apt list --upgradeable
 cd ..
 
 sudo apt update

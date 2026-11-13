@@ -39,12 +39,14 @@ class InstallScreen(Screen):
         Vertical (
          Label("Default Apps"),
          SelectionList[int]( 
-            ("Wine", 0, True),
-            ("Chrome", 1, True),
-            ("Xarchiver", 2, True),
-            ("Discord", 3, True),
-            ("Steam", 4, True),
-            ("Minecraft", 5, True),
+            ("Wine", 0, False),
+            ("Chrome", 1, False),
+            ("Xarchiver", 2, False),
+            ("Discord", 3, False),
+            ("Steam", 4, False),
+            ("Minecraft", 5, False),
+            ("Roblox (Sober)", 6, False),
+            ("Fortnite (Cloud)", 7, False),
             id="defaultapps"
         ),),
         Vertical (
