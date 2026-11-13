@@ -45,6 +45,8 @@ class InstallScreen(Screen):
             ("Discord", 3, False),
             ("Steam", 4, False),
             ("Minecraft", 5, False),
+            ("Roblox (Sober)", 6, False),
+            ("Fortnite (Cloud)", 7, False),
             id="defaultapps"
         ),),
         Vertical (
