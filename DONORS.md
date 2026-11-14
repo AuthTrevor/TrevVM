@@ -11,4 +11,4 @@ Some people have pre-bulit, public TrevVM's that are already installed and ready
 docker start TrevVM
 ```
 -----
-- 1. https://congenial-disco-r7xx6vrpg566cw57g.github.dev
+- 1. https://silver-giggle-jrgwq9rpq5w7hj7qp-3000.app.github.dev/
