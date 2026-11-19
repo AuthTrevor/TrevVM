@@ -24,4 +24,4 @@ else
     docker run -d --name=TrevVM -e PUID=1000 -e PGID=1000 --security-opt seccomp=unconfined -e TZ=Etc/UTC -e SUBFOLDER=/ -e TITLE=TrevVM -p 3000:3000 --shm-size="2gb" -v $(pwd)/Save:/config --restart unless-stopped trevvm
 fi
 clear
-echo "If you are seeing this, you have sucessfully installed the VM. There may be an issue, if there is then tell me in the issues tab on github. Thanks!"
+echo "If you are seeing this, you have sucessfully installed the VM. There may be an issue, if there is then tell me in the issues tab on github. Thanks! (Check the Ports Tab next to the terminal.)"
