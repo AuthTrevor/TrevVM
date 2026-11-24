@@ -9,6 +9,14 @@ We'll hunt down any issues or bugs to keep this service functioning properly.
 
 <b>We also use this to test features that can be added sooner in codespaces.</b>
 
+## Current Announcements 🤯
+##### We'll keep a post with more info in our discussions tab.
+
+### Updated as of: 11-24-2026
+-----
+##### Current Title: <a href="https://github.com/AuthTrevor/TrevVM/discussions/85">TrevVM - Windows Supported</a>
+#### This Thanksgiving, TrevVM has made a new repo in which now you can use windows desktops in codespaces via a Docker container. Now you can have a windows 11 (or something else) in your computer today! We will continue to make any changes if needed. Click <a href="https://github.com/AuthTrevor/TrevVM-2">here</a> to get your new TrevVM, now faster, quicker, and hands-free installation. No more Command line anymore!
+
 
 ## Installation 🔑
 
